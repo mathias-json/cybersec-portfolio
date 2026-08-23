@@ -1,2 +1,2 @@
-###### _Mathias Onasanya_ | Cybersecurity Analyst Portfolio
+###### **Mathias Onasanya** | _Cybersecurity Analyst Portfolio_
 projects &amp; lab work
