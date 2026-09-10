@@ -1,3 +1,15 @@
 ## Controls Assessment & Compliance Checklist
 
-Below is an evaluation of Botium Toys existing safeguards and security postures assessed against industry standard baselines - **NIST CSF**
+Below is an evaluation of Botium Toys existing safeguards and security postures assessed against industry standard baselines - **NIST CSF**, **PCI-DSS** & **GDPR**
+
+---
+
+## 🔎 Audit Findings / Risk Exposure
+
+
+
+---
+
+## ➕ Recommendations for Changes
+
+
