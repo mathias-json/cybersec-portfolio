@@ -27,4 +27,4 @@ Below is an evaluation of Botium Toys existing safeguards and security postures 
 **Harden GDPR and PCI DSS data protection**
 **Create Backups and Create disaster plan** - (potentially try to expand to more than one site)
 **Enforce stricter password requirements and policies**
-**Implement fire safety anti measures**
+**Implement fire safety anti-measures**
