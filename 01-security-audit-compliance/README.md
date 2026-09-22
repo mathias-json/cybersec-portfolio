@@ -11,7 +11,7 @@ Below is an evaluation of Botium Toys existing safeguards and security postures 
 **Administrative, Technical - Password Policies, Password Management System:** | Missing | All user passwords do not have any complexity requirements and for inclusion of special characters. There is no password management system enforcing policy requirement\
 **Technical - Intrusion Detection System:** | Missing | There is no use of an IDS within the company to reveal any potential threats across their network\
 **Technical - Encryption:** | Missing | Use of encryption is not present where customers' financial information is stored in the company's internal database making it prone to theft\
-**Physical - Fire Detection/Prevention:** | Partial | Though the site does implement use of CCTV and locks to protect assets, the are no precautions against potential fires\
+**Physical - Fire Detection/Prevention:** | Partial | Though the site does implement use of CCTV and locks to protect assets, there are no precautions against potential fires
 
 ---
 
