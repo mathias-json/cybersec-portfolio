@@ -13,5 +13,5 @@ A resilient cyber security analyst with a solid understanding for the foundation
 ~
 ###### 💻 Languages
 
-## [Data Science]
+####### Data Science:
 **Python:** String manipulation; basic automation scripts
