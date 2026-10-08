@@ -11,3 +11,5 @@ A resilient cyber security analyst with a solid understanding for the foundation
 
 ###### 🏆 Certifications
 ~
+###### 💻 Languages
+**Python:** String manipulation; basic automation scripts
